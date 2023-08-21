@@ -23,6 +23,9 @@ Creating Finance Insights to find Profit and Loss across all markets.
 Find full file here:
 https://github.com/ritudodo/Atliq-Hardware-Sales-and-Finance-Analysis/blob/6e50ae0d713b0755404123688434b52487b36786/Sales%20%26%20Finance%20Analysis.pdf
 
+#![image](https://github.com/ritudodo/Atliq-Hardware-Sales-and-Finance-Analysis/assets/124086237/d4a34dd7-bb9b-423c-8aa2-ef860e01fd6d)
+
+
 #![image](https://github.com/ritudodo/Atliq-Hardware-Sales-and-Finance-Analysis/assets/124086237/9d88b6ed-ec6c-460a-85c5-2bf797da3b28)
 
 
